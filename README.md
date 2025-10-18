@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# chat-widget
-=======
 ## Installation
 
 ### 1. Install dependencies
@@ -76,4 +73,3 @@ Inside your theme’s footer.php, add:
 ```
 
 ### 6. Verify the results
->>>>>>> master
